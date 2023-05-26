@@ -1,7 +1,7 @@
 # Phone_Flipping 📱
 The Phone Flipping Project
 
-My first dollar made online.
+My first $ made online.
 
 **What?**
 
