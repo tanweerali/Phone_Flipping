@@ -21,7 +21,7 @@ The report was generated from a single Jupyter Notebook which I converted into a
 
 **Note:**
 
-This project was really scrappy, I released the MVP as fast as possible to confirm the product market fit of my idea and solution. It was a success because I ended up monetizing it in the first month with a Pro plan.
+This project was really scrappy, I released the MVP as fast as possible to confirm the product market fit of my idea and solution. It was a success because I ended up monetizing it in the first month with a Pro plan. In total, I had around 140 free and paid users.
 
 I unfortunately had to put an end to it in 2020.
 
