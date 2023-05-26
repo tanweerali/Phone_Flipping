@@ -1,4 +1,4 @@
-# Phone_Flipping
+# Phone_Flipping 📱
 The Phone Flipping Project
 
 **What?**
