@@ -1,6 +1,8 @@
 # Phone_Flipping 📱
 The Phone Flipping Project
 
+My first dollar made online.
+
 **What?**
 
 I built a SaaS(Analytics as a service) for iPhone resellers in the US.
