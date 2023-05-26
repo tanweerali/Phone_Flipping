@@ -17,10 +17,8 @@ Helping them stay up-to-date with current resale prices.
 I built multiple bots using Scrapy in Python.
 Prices were scraped every single day from eBay, and a weekly analysis of all the data pulled during the week was done every Friday morning before sending out the Weekly report.
 
+I wrote about it here: https://blog.startupstash.com/how-i-launched-my-first-saas-business-with-0-bc68ab5cb9e2
 
 ![Screenshot from 2023-05-26 21-24-30](https://github.com/tanweerali/Phone_Flipping/assets/21012014/0cfbcc7e-78f2-46d6-a8d7-1a50a31a4755)
 
 ![Screenshot from 2023-05-26 21-25-12](https://github.com/tanweerali/Phone_Flipping/assets/21012014/ecdc4c32-f4f1-4af4-bb28-ca5ea1d8f17e)
-
-
-I wrote about it here: https://blog.startupstash.com/how-i-launched-my-first-saas-business-with-0-bc68ab5cb9e2
