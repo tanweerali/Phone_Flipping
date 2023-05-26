@@ -3,19 +3,21 @@ The Phone Flipping Project
 
 **What?**
 
-I built a SaaS(Analytics as a service) for iPhone resellers in the US. 
+I built a SaaS(Analytics as a service) for iPhone resellers in the US.
 Helping them appraise and estimate iPhone prices with weekly pricing reports sent directly to their email.
 
 **Why?**
 
-Phone resellers were appraising/estimating iPhone prices manually by going on eBay.com.
-I automated that process and gave them access to weekly pricing reports with data freshly scraped from eBay.
-Helping them stay up-to-date with current resale prices.
+Phone resellers were appraising/estimating iPhone prices manually by going on eBay(.)com. I automated that process and gave them access to weekly pricing reports with data freshly scraped from eBay.
+Helping them stay up-to-date with current iPhone resale prices.
 
 **How?**
 
 I built multiple bots using Scrapy in Python.
-Prices were scraped every single day from eBay, and a weekly analysis of all the data pulled during the week was done every Friday morning before sending out the Weekly report.
+Prices were scraped every single day from eBay, and a weekly analysis of all the data pulled during the week was done every Friday morning before sending the Weekly report.
+The report was generated from a single Jupyter Notebook which I converted into a PDF. All data processes were automated on a local Debian Linux server.
+
+**Note:**
 
 This project was really scrappy, I released the MVP as fast as possible to confirm the product market fit of my idea and solution. It was a success because I ended up monetizing it in the first month with a Pro plan.
 
