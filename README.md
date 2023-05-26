@@ -8,8 +8,9 @@ Helping them appraise and estimate iPhone prices with weekly pricing reports sen
 
 **Why?**
 
-Phone resellers were appraising/estimating iPhone prices manually by going on eBay.com everyday.
+Phone resellers were appraising/estimating iPhone prices manually by going on eBay.com.
 I automated that process and gave them access to weekly pricing reports with data freshly scraped from eBay.
+Helping them stay up-to-date with current resale prices.
 
 **How?**
 
